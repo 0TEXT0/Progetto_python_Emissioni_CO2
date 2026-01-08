@@ -1,0 +1,1682 @@
+[
+  {
+    "Nazione": "Austria",
+    "Anno": "2001",
+    "Emissioni_CO2": 87306052.8
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2002",
+    "Emissioni_CO2": 88910404.8
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2003",
+    "Emissioni_CO2": 94868011.8
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2004",
+    "Emissioni_CO2": 94707604.6
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2005",
+    "Emissioni_CO2": 95945893.2
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2006",
+    "Emissioni_CO2": 93005881.2
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2007",
+    "Emissioni_CO2": 90555416.4
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2008",
+    "Emissioni_CO2": 90475207.8
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2009",
+    "Emissioni_CO2": 83326747.4
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2010",
+    "Emissioni_CO2": 88229060.0
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2011",
+    "Emissioni_CO2": 86265217.6
+  },
+  {
+    "Nazione": "Austria",
+    "Anno": "2012",
+    "Emissioni_CO2": 83416944.0
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2001",
+    "Emissioni_CO2": 142079075.1
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2002",
+    "Emissioni_CO2": 140685690.1
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2003",
+    "Emissioni_CO2": 141416447.47
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2004",
+    "Emissioni_CO2": 142387141.96
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2005",
+    "Emissioni_CO2": 138481358.9
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2006",
+    "Emissioni_CO2": 135118717.11
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2007",
+    "Emissioni_CO2": 130691230.17
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2008",
+    "Emissioni_CO2": 133208006.73
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2009",
+    "Emissioni_CO2": 120836649.9
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2010",
+    "Emissioni_CO2": 128227699.21
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2011",
+    "Emissioni_CO2": 118466185.91
+  },
+  {
+    "Nazione": "Belgio",
+    "Anno": "2012",
+    "Emissioni_CO2": 114704021.02
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2001",
+    "Emissioni_CO2": 67683935.1
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2002",
+    "Emissioni_CO2": 64491976.2
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2003",
+    "Emissioni_CO2": 69837929.7
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2004",
+    "Emissioni_CO2": 68897824.1
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2005",
+    "Emissioni_CO2": 69134959.05
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2006",
+    "Emissioni_CO2": 69966504.4
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2007",
+    "Emissioni_CO2": 74116283.56
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2008",
+    "Emissioni_CO2": 72506691.8
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2009",
+    "Emissioni_CO2": 62623051.1
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2010",
+    "Emissioni_CO2": 65330335.51
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2011",
+    "Emissioni_CO2": 71474773.55
+  },
+  {
+    "Nazione": "Bulgaria",
+    "Anno": "2012",
+    "Emissioni_CO2": 66167752.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2001",
+    "Emissioni_CO2": 27852923.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2002",
+    "Emissioni_CO2": 28965578.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2003",
+    "Emissioni_CO2": 30328882.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2004",
+    "Emissioni_CO2": 30521360.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2005",
+    "Emissioni_CO2": 30872636.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2006",
+    "Emissioni_CO2": 31466445.0
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2007",
+    "Emissioni_CO2": 32924404.4
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2008",
+    "Emissioni_CO2": 31590874.1
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2009",
+    "Emissioni_CO2": 29584347.6
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2010",
+    "Emissioni_CO2": 29094066.6
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2011",
+    "Emissioni_CO2": 28726510.4
+  },
+  {
+    "Nazione": "Croazia",
+    "Anno": "2012",
+    "Emissioni_CO2": 26647271.4
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2001",
+    "Emissioni_CO2": 9539224.6
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2002",
+    "Emissioni_CO2": 9781523.2
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2003",
+    "Emissioni_CO2": 10217290.0
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2004",
+    "Emissioni_CO2": 10342674.2
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2005",
+    "Emissioni_CO2": 10421067.78
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2006",
+    "Emissioni_CO2": 10619939.8
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2007",
+    "Emissioni_CO2": 10889269.6
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2008",
+    "Emissioni_CO2": 11054366.8
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2009",
+    "Emissioni_CO2": 10762968.96
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2010",
+    "Emissioni_CO2": 10457630.8
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2011",
+    "Emissioni_CO2": 10237720.4
+  },
+  {
+    "Nazione": "Cipro",
+    "Anno": "2012",
+    "Emissioni_CO2": 9736874.6
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2001",
+    "Emissioni_CO2": 147829768.41
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2002",
+    "Emissioni_CO2": 144243685.77
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2003",
+    "Emissioni_CO2": 147434543.35
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2004",
+    "Emissioni_CO2": 149225790.2
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2005",
+    "Emissioni_CO2": 147829768.41
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2006",
+    "Emissioni_CO2": 149027913.39
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2007",
+    "Emissioni_CO2": 149225790.2
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2008",
+    "Emissioni_CO2": 144243685.77
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2009",
+    "Emissioni_CO2": 136153715.44
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2010",
+    "Emissioni_CO2": 138923769.86
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2011",
+    "Emissioni_CO2": 137132512.59
+  },
+  {
+    "Nazione": "Repubblica Ceca",
+    "Anno": "2012",
+    "Emissioni_CO2": 133132070.79
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2001",
+    "Emissioni_CO2": 71775588.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2002",
+    "Emissioni_CO2": 70940394.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2003",
+    "Emissioni_CO2": 75752932.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2004",
+    "Emissioni_CO2": 70163972.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2005",
+    "Emissioni_CO2": 66050523.4
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2006",
+    "Emissioni_CO2": 73868818.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2007",
+    "Emissioni_CO2": 69393090.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2008",
+    "Emissioni_CO2": 65980781.2
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2009",
+    "Emissioni_CO2": 62837542.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2010",
+    "Emissioni_CO2": 63255169.4
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2011",
+    "Emissioni_CO2": 58458796.0
+  },
+  {
+    "Nazione": "Danimarca",
+    "Anno": "2012",
+    "Emissioni_CO2": 53641758.0
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2001",
+    "Emissioni_CO2": 17382753.6
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2002",
+    "Emissioni_CO2": 16781250.6
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2003",
+    "Emissioni_CO2": 18637795.4
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2004",
+    "Emissioni_CO2": 18990113.6
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2005",
+    "Emissioni_CO2": 18346216.8
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2006",
+    "Emissioni_CO2": 17698872.0
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2007",
+    "Emissioni_CO2": 20840508.4
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2008",
+    "Emissioni_CO2": 19392257.6
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2009",
+    "Emissioni_CO2": 16093520.0
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2010",
+    "Emissioni_CO2": 19754705.8
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2011",
+    "Emissioni_CO2": 20340330.8
+  },
+  {
+    "Nazione": "Estonia",
+    "Anno": "2012",
+    "Emissioni_CO2": 19071061.2
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2001",
+    "Emissioni_CO2": 75266851.58
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2002",
+    "Emissioni_CO2": 77461996.39
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2003",
+    "Emissioni_CO2": 85422642.71
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2004",
+    "Emissioni_CO2": 81655822.08
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2005",
+    "Emissioni_CO2": 69604557.8
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2006",
+    "Emissioni_CO2": 81084894.0
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2007",
+    "Emissioni_CO2": 79653352.0
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2008",
+    "Emissioni_CO2": 71708848.08
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2009",
+    "Emissioni_CO2": 67366917.37
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2010",
+    "Emissioni_CO2": 75819779.86
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2011",
+    "Emissioni_CO2": 68627731.15
+  },
+  {
+    "Nazione": "Finlandia",
+    "Anno": "2012",
+    "Emissioni_CO2": 62660161.1
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2001",
+    "Emissioni_CO2": 555776601.71
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2002",
+    "Emissioni_CO2": 553707791.21
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2003",
+    "Emissioni_CO2": 555776601.71
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2004",
+    "Emissioni_CO2": 555227630.96
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2005",
+    "Emissioni_CO2": 556875543.25
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2006",
+    "Emissioni_CO2": 546740669.32
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2007",
+    "Emissioni_CO2": 538566938.87
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2008",
+    "Emissioni_CO2": 533610996.04
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2009",
+    "Emissioni_CO2": 509533320.44
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2010",
+    "Emissioni_CO2": 516621043.67
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2011",
+    "Emissioni_CO2": 491378377.65
+  },
+  {
+    "Nazione": "Francia",
+    "Anno": "2012",
+    "Emissioni_CO2": 491378377.65
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2001",
+    "Emissioni_CO2": 1067098418.99
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2002",
+    "Emissioni_CO2": 1045930064.68
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2003",
+    "Emissioni_CO2": 1044678978.55
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2004",
+    "Emissioni_CO2": 1033249013.78
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2005",
+    "Emissioni_CO2": 1011406830.4
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2006",
+    "Emissioni_CO2": 1020178229.45
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2007",
+    "Emissioni_CO2": 994645223.35
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2008",
+    "Emissioni_CO2": 998410051.74
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2009",
+    "Emissioni_CO2": 930810793.82
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2010",
+    "Emissioni_CO2": 964893798.83
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2011",
+    "Emissioni_CO2": 945831966.6
+  },
+  {
+    "Nazione": "Germania",
+    "Anno": "2012",
+    "Emissioni_CO2": 958342898.58
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2001",
+    "Emissioni_CO2": 127921396.88
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2002",
+    "Emissioni_CO2": 127921396.88
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2003",
+    "Emissioni_CO2": 132338545.32
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2004",
+    "Emissioni_CO2": 132867823.52
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2005",
+    "Emissioni_CO2": 135623053.44
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2006",
+    "Emissioni_CO2": 132551069.68
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2007",
+    "Emissioni_CO2": 135401270.72
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2008",
+    "Emissioni_CO2": 131971775.2
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2009",
+    "Emissioni_CO2": 124823176.0
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2010",
+    "Emissioni_CO2": 118182250.64
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2011",
+    "Emissioni_CO2": 115243788.8
+  },
+  {
+    "Nazione": "Grecia",
+    "Anno": "2012",
+    "Emissioni_CO2": 111833074.04
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2001",
+    "Emissioni_CO2": 74574973.9
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2002",
+    "Emissioni_CO2": 73190182.0
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2003",
+    "Emissioni_CO2": 75806684.84
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2004",
+    "Emissioni_CO2": 75344383.94
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2005",
+    "Emissioni_CO2": 74786187.06
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2006",
+    "Emissioni_CO2": 73934579.64
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2007",
+    "Emissioni_CO2": 72173496.62
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2008",
+    "Emissioni_CO2": 70050800.88
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2009",
+    "Emissioni_CO2": 63925500.2
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2010",
+    "Emissioni_CO2": 64573191.86
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2011",
+    "Emissioni_CO2": 62999144.4
+  },
+  {
+    "Nazione": "Ungheria",
+    "Anno": "2012",
+    "Emissioni_CO2": 59005937.86
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2001",
+    "Emissioni_CO2": 72007994.08
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2002",
+    "Emissioni_CO2": 70251912.4
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2003",
+    "Emissioni_CO2": 70307905.18
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2004",
+    "Emissioni_CO2": 69919958.72
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2005",
+    "Emissioni_CO2": 71790697.76
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2006",
+    "Emissioni_CO2": 71678712.9
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2007",
+    "Emissioni_CO2": 71058206.12
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2008",
+    "Emissioni_CO2": 70503273.52
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2009",
+    "Emissioni_CO2": 64152865.28
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2010",
+    "Emissioni_CO2": 63819871.2
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2011",
+    "Emissioni_CO2": 59516480.44
+  },
+  {
+    "Nazione": "Irlanda",
+    "Anno": "2012",
+    "Emissioni_CO2": 59882296.6
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2001",
+    "Emissioni_CO2": 560628540.0
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2002",
+    "Emissioni_CO2": 561147640.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2003",
+    "Emissioni_CO2": 577908955.65
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2004",
+    "Emissioni_CO2": 581023759.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2005",
+    "Emissioni_CO2": 578946766.75
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2006",
+    "Emissioni_CO2": 569356548.0
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2007",
+    "Emissioni_CO2": 561147640.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2008",
+    "Emissioni_CO2": 546851626.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2009",
+    "Emissioni_CO2": 495204877.0
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2010",
+    "Emissioni_CO2": 505085688.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2011",
+    "Emissioni_CO2": 492636374.5
+  },
+  {
+    "Nazione": "Italia",
+    "Anno": "2012",
+    "Emissioni_CO2": 465600649.35
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2001",
+    "Emissioni_CO2": 11138431.15
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2002",
+    "Emissioni_CO2": 11110929.2
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2003",
+    "Emissioni_CO2": 11413449.45
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2004",
+    "Emissioni_CO2": 11440951.4
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2005",
+    "Emissioni_CO2": 11688469.25
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2006",
+    "Emissioni_CO2": 12210008.52
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2007",
+    "Emissioni_CO2": 12760541.69
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2008",
+    "Emissioni_CO2": 12265012.78
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2009",
+    "Emissioni_CO2": 11604963.86
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2010",
+    "Emissioni_CO2": 12843574.61
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2011",
+    "Emissioni_CO2": 11963420.55
+  },
+  {
+    "Nazione": "Lettonia",
+    "Anno": "2012",
+    "Emissioni_CO2": 11801409.87
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2001",
+    "Emissioni_CO2": 20455134.4
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2002",
+    "Emissioni_CO2": 20937107.84
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2003",
+    "Emissioni_CO2": 21178096.24
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2004",
+    "Emissioni_CO2": 21901748.0
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2005",
+    "Emissioni_CO2": 23062328.08
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2006",
+    "Emissioni_CO2": 23448303.36
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2007",
+    "Emissioni_CO2": 25841199.36
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2008",
+    "Emissioni_CO2": 24707695.12
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2009",
+    "Emissioni_CO2": 20173512.48
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2010",
+    "Emissioni_CO2": 20888636.8
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2011",
+    "Emissioni_CO2": 21469792.0
+  },
+  {
+    "Nazione": "Lituania",
+    "Anno": "2012",
+    "Emissioni_CO2": 21421546.24
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2001",
+    "Emissioni_CO2": 9371335.0
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2002",
+    "Emissioni_CO2": 10087956.5
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2003",
+    "Emissioni_CO2": 10413724.5
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2004",
+    "Emissioni_CO2": 11730606.4
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2005",
+    "Emissioni_CO2": 11957388.3
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2006",
+    "Emissioni_CO2": 11767676.6
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2007",
+    "Emissioni_CO2": 11333705.8
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2008",
+    "Emissioni_CO2": 11200691.6
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2009",
+    "Emissioni_CO2": 10738392.4
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2010",
+    "Emissioni_CO2": 11239129.69
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2011",
+    "Emissioni_CO2": 11069204.0
+  },
+  {
+    "Nazione": "Lussemburgo",
+    "Anno": "2012",
+    "Emissioni_CO2": 10754967.25
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2001",
+    "Emissioni_CO2": 3130230.64
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2002",
+    "Emissioni_CO2": 3141857.94
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2003",
+    "Emissioni_CO2": 3337754.86
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2004",
+    "Emissioni_CO2": 3321528.94
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2005",
+    "Emissioni_CO2": 3432729.24
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2006",
+    "Emissioni_CO2": 3439714.58
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2007",
+    "Emissioni_CO2": 3573356.62
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2008",
+    "Emissioni_CO2": 3540679.7
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2009",
+    "Emissioni_CO2": 3458633.22
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2010",
+    "Emissioni_CO2": 3495813.9
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2011",
+    "Emissioni_CO2": 3540679.7
+  },
+  {
+    "Nazione": "Malta",
+    "Anno": "2012",
+    "Emissioni_CO2": 3641775.22
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2001",
+    "Emissioni_CO2": 222657753.35
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2002",
+    "Emissioni_CO2": 222237300.73
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2003",
+    "Emissioni_CO2": 222872979.96
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2004",
+    "Emissioni_CO2": 224814864.45
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2005",
+    "Emissioni_CO2": 219085880.38
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2006",
+    "Emissioni_CO2": 215392461.61
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2007",
+    "Emissioni_CO2": 214115164.95
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2008",
+    "Emissioni_CO2": 213274291.51
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2009",
+    "Emissioni_CO2": 206968032.52
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2010",
+    "Emissioni_CO2": 218165039.74
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2011",
+    "Emissioni_CO2": 204417295.0
+  },
+  {
+    "Nazione": "Paesi Bassi",
+    "Anno": "2012",
+    "Emissioni_CO2": 200774229.33
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2001",
+    "Emissioni_CO2": 397223385.24
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2002",
+    "Emissioni_CO2": 384501168.08
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2003",
+    "Emissioni_CO2": 397705603.52
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2004",
+    "Emissioni_CO2": 402429993.52
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2005",
+    "Emissioni_CO2": 403372431.68
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2006",
+    "Emissioni_CO2": 419385749.2
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2007",
+    "Emissioni_CO2": 420328187.36
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2008",
+    "Emissioni_CO2": 410883656.4
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2009",
+    "Emissioni_CO2": 392095642.04
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2010",
+    "Emissioni_CO2": 412852203.68
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2011",
+    "Emissioni_CO2": 410940569.5
+  },
+  {
+    "Nazione": "Polonia",
+    "Anno": "2012",
+    "Emissioni_CO2": 404746973.92
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2001",
+    "Emissioni_CO2": 86378411.86
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2002",
+    "Emissioni_CO2": 90460492.16
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2003",
+    "Emissioni_CO2": 84877546.7
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2004",
+    "Emissioni_CO2": 88094628.24
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2005",
+    "Emissioni_CO2": 90585642.3
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2006",
+    "Emissioni_CO2": 85586616.84
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2007",
+    "Emissioni_CO2": 83300404.2
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2008",
+    "Emissioni_CO2": 81163688.64
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2009",
+    "Emissioni_CO2": 77734185.54
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2010",
+    "Emissioni_CO2": 73733671.98
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2011",
+    "Emissioni_CO2": 72478149.78
+  },
+  {
+    "Nazione": "Portogallo",
+    "Anno": "2012",
+    "Emissioni_CO2": 71974175.06
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2001",
+    "Emissioni_CO2": 135230230.4
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2002",
+    "Emissioni_CO2": 135952435.36
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2003",
+    "Emissioni_CO2": 140321132.8
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2004",
+    "Emissioni_CO2": 137398728.8
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2005",
+    "Emissioni_CO2": 137398728.8
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2006",
+    "Emissioni_CO2": 140925573.2
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2007",
+    "Emissioni_CO2": 138760990.4
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2008",
+    "Emissioni_CO2": 136391485.6
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2009",
+    "Emissioni_CO2": 116709849.6
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2010",
+    "Emissioni_CO2": 112836687.2
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2011",
+    "Emissioni_CO2": 118353696.4
+  },
+  {
+    "Nazione": "Romania",
+    "Anno": "2012",
+    "Emissioni_CO2": 115704192.0
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2001",
+    "Emissioni_CO2": 49788015.65
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2002",
+    "Emissioni_CO2": 48293700.1
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2003",
+    "Emissioni_CO2": 49001384.8
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2004",
+    "Emissioni_CO2": 49284246.8
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2005",
+    "Emissioni_CO2": 48657519.35
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2006",
+    "Emissioni_CO2": 48728349.8
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2007",
+    "Emissioni_CO2": 46892551.3
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2008",
+    "Emissioni_CO2": 47458133.5
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2009",
+    "Emissioni_CO2": 43285786.55
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2010",
+    "Emissioni_CO2": 43993471.25
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2011",
+    "Emissioni_CO2": 43285786.55
+  },
+  {
+    "Nazione": "Slovacchia",
+    "Anno": "2012",
+    "Emissioni_CO2": 41369527.2
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2001",
+    "Emissioni_CO2": 21597893.12
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2002",
+    "Emissioni_CO2": 21778720.2
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2003",
+    "Emissioni_CO2": 21444265.76
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2004",
+    "Emissioni_CO2": 21746685.28
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2005",
+    "Emissioni_CO2": 22129323.24
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2006",
+    "Emissioni_CO2": 22359573.68
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2007",
+    "Emissioni_CO2": 22540400.76
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2008",
+    "Emissioni_CO2": 23330368.64
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2009",
+    "Emissioni_CO2": 21124618.24
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2010",
+    "Emissioni_CO2": 21164700.8
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2011",
+    "Emissioni_CO2": 21204783.36
+  },
+  {
+    "Nazione": "Slovenia",
+    "Anno": "2012",
+    "Emissioni_CO2": 20603700.32
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2001",
+    "Emissioni_CO2": 387349198.8
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2002",
+    "Emissioni_CO2": 404787593.8
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2003",
+    "Emissioni_CO2": 412959886.6
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2004",
+    "Emissioni_CO2": 428701541.1
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2005",
+    "Emissioni_CO2": 443729505.2
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2006",
+    "Emissioni_CO2": 436798050.8
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2007",
+    "Emissioni_CO2": 445899738.9
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2008",
+    "Emissioni_CO2": 411871213.3
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2009",
+    "Emissioni_CO2": 372483568.6
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2010",
+    "Emissioni_CO2": 360156948.4
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2011",
+    "Emissioni_CO2": 360156948.4
+  },
+  {
+    "Nazione": "Spagna",
+    "Anno": "2012",
+    "Emissioni_CO2": 354979142.5
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2001",
+    "Emissioni_CO2": 68434771.2
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2002",
+    "Emissioni_CO2": 68862876.8
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2003",
+    "Emissioni_CO2": 69216794.8
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2004",
+    "Emissioni_CO2": 68686254.0
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2005",
+    "Emissioni_CO2": 66175080.0
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2006",
+    "Emissioni_CO2": 66103920.4
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2007",
+    "Emissioni_CO2": 64813581.6
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2008",
+    "Emissioni_CO2": 62899494.4
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2009",
+    "Emissioni_CO2": 58783456.0
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2010",
+    "Emissioni_CO2": 64540193.2
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2011",
+    "Emissioni_CO2": 60553616.0
+  },
+  {
+    "Nazione": "Svezia",
+    "Anno": "2012",
+    "Emissioni_CO2": 57421832.0
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2001",
+    "Emissioni_CO2": 726978518.85
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2002",
+    "Emissioni_CO2": 707921671.35
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2003",
+    "Emissioni_CO2": 715000571.1
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2004",
+    "Emissioni_CO2": 715000571.1
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2005",
+    "Emissioni_CO2": 711883734.9
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2006",
+    "Emissioni_CO2": 709559984.75
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2007",
+    "Emissioni_CO2": 699419106.9
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2008",
+    "Emissioni_CO2": 679540092.85
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2009",
+    "Emissioni_CO2": 623910515.35
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2010",
+    "Emissioni_CO2": 638977320.3
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2011",
+    "Emissioni_CO2": 596958806.65
+  },
+  {
+    "Nazione": "Regno Unito",
+    "Anno": "2012",
+    "Emissioni_CO2": 614482388.75
+  }
+]
